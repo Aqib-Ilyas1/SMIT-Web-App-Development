@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url(./images/bg-image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    /* background-size: 250px; */
+}
+
+.navbar{
+    background-image: none;
+}
+
+.naming{
+    margin-left:370px;
+}
+
+.title{
+    font-size: 45px;
+    color: rgba(165, 13, 33, 0.678);
+}
+
+.new{
+    color: rgba(165, 13, 33, 0.678);
+    /* color: white; */
+    font-weight: bold ;
+    background-color: rgb(244, 247, 70);
+    height: 50px;
+    margin-top: 120px ;
+}
+
+/* content.html */
+.afterselection{
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.countbox{
+    background-color: white;
+    max-height: 200px;
+    height: 2000px;
+}
+
+.starter{
+    font-size: 90px;
+}
+.slash{
+    font-size: 30px;
+}
+
