@@ -1,0 +1,6 @@
+Fonts:
+
+Lexend Tera
+Lato
+Poppins
+DM Sans
